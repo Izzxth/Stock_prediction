@@ -1,0 +1,9 @@
+#python libraries
+praw
+pandas
+nltk
+
+#to install dependencies in a virtual environment:
+pip install -r requirements.txt
+
+
